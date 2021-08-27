@@ -3,7 +3,7 @@ const express = require('express');
 const fast2sms = require('fast-two-sms');
 
 
-const API_KEY = "zV4Kl8LSkEfZ3QtN67vHah1uJCmwjqXAMFs5xiOpPRTce2B9GrFbjte4LYoJzcXM17ZHwKdPTkDSnilA ";
+const API_KEY = " ";
 
 const app = express();
 
